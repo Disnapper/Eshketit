@@ -1,0 +1,13 @@
+.box {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+}
+@keyframes colordodge {
+	0% {
+		background-color: grey;
+	}
+	100%{
+ background-color: purple;
+	}
+}
